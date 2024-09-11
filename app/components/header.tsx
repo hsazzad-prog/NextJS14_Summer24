@@ -8,7 +8,7 @@ export default function Header() {
     <td><Link href="/"> Home </Link> </td>
       <td><Link href="about"> About </Link></td>
       <td> Contact</td>
-      <td> Registration</td>
+      <td> <Link href="signup"> Registration </Link></td>
       <td> login</td>
     </tr>
     </tbody>

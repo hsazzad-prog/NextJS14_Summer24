@@ -1,6 +1,5 @@
 
 import axios from 'axios';
-import { Key, ReactElement, JSXElementConstructor, ReactNode, ReactPortal, AwaitedReactNode } from 'react';
 
 interface User {
   id: number;
